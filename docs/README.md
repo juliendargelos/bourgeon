@@ -8,7 +8,7 @@ If you just want to try out `vue-loader` or whip out a quick prototype, use the 
 
 ## What's different
 
-This template is a fork of the official [webpack](https://github.com/vuejs-templates/webpack) template. A few more opinionated features and conventions are bundled with Bourgeon:
+This template is a fork of the official [webpack](https://github.com/vuejs-templates/webpack) template. A few more opinionated features and conventions are bundled with Shrub:
 
 - **[VueX](store.md)** installed and ready to use
 - **[Routing](routing.md)** using official [vue-router](https://github.com/vuejs/vue-router) and conventions
@@ -35,11 +35,11 @@ $ npm run dev
 
 ## Configuration
 
-Bourgeon favors convention over configuration. But some configuration can be passed in the plugin call:
+Shrub favors convention over configuration. But some configuration can be passed in the plugin call:
 
 ```javascript
 // main.js
-Vue.use(Bourgeon, {
+Vue.use(Shrub, {
   locales: ['fr', 'en']
 })
 ```

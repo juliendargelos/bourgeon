@@ -100,9 +100,9 @@ module.exports = {
     "test/e2e/**/*": "e2e",
     "build/utils": "svg",
     "src/assets/svg/**/*": "svg",
-    "src/bourgeon/router.js": "routing",
-    "src/bourgeon/Icon.vue": "svg",
-    "src/bourgeon/i18n.js": "i18n",
+    "src/shrub/router.js": "routing",
+    "src/shrub/Icon.vue": "svg",
+    "src/shrub/i18n.js": "i18n",
     "src/components/Hello.vue": "routing",
     "src/locales/**/*": "i18n",
     "src/routes.js": "routing"

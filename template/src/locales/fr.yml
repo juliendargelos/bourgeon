@@ -1,5 +1,5 @@
 messages:
-  welcome: Bienvenue sur votre application Bourgeon !
+  welcome: Bienvenue sur votre application Shrub !
   {{#if vuex}}
   counter: Vous avez cliqué ce bouton {n} fois
   {{/if}}

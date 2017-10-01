@@ -4,7 +4,7 @@
 .
 ├── build/                      # webpack config files
 │   └── ...
-├── config/                     
+├── config/
 │   ├── index.js                # main project config
 │   └── ...
 ├── src/
@@ -19,7 +19,7 @@
 │   │   └── ...
 │   ├── locales/                # locales files in yaml
 │   │   └── ...
-│   └── bourgeon/               # bourgeon specific files
+│   └── shrub/                  # shrub specific files
 │       └── ...
 ├── static/                     # pure static assets (directly copied)
 ├── test/

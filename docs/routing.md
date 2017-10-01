@@ -1,6 +1,6 @@
 # Routing
 
-Bourgeon is wrapping [vue-router](https://github.com/vuejs/vue-router) to provide routes to your application.
+Shrub is wrapping [vue-router](https://github.com/vuejs/vue-router) to provide routes to your application.
 
 You can follow the [documentation here](http://router.vuejs.org/en/index.html).
 

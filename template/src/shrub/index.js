@@ -1,12 +1,12 @@
 /* eslint-disable no-unused-vars */
 {{#svg}}
-import Icon from 'bourgeon/Icon.vue'
+import Icon from 'shrub/Icon.vue'
 {{/svg}}
 {{#routing}}
-import Router from 'bourgeon/router'
+import Router from 'shrub/router'
 {{/routing}}
 {{#i18n}}
-import I18n from 'bourgeon/i18n'
+import I18n from 'shrub/i18n'
 {{/i18n}}
 
 export default {

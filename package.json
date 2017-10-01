@@ -1,8 +1,8 @@
 {
-  "name": "bourgeon",
+  "name": "shrub",
   "version": "2.3.0",
   "license": "MIT",
-  "description": "Bourgeon is an opinionated-featured VueJS 2.0 setup for Webpack",
+  "description": "Shrub is an opinionated-featured VueJS 2.0 setup for Webpack, based on Bourgeon",
   "scripts": {
     "docs": "cd docs && gitbook serve",
     "deploy-docs": "bash ./deploy-docs.sh"

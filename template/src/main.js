@@ -3,10 +3,10 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 {{/if_eq}}
 import Vue from 'vue'
-import Bourgeon from 'bourgeon'
+import Shrub from 'shrub'
 import App from './App'
 
-Vue.use(Bourgeon, {
+Vue.use(Shrub, {
   locales: ['fr', 'en']
 })
 

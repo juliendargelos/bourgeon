@@ -1,6 +1,6 @@
 # Stylus toolbelt
 
-Bourgeon comes by default with [stylus-loader]() and a few tools that plays nice together.
+Shrub comes by default with [stylus-loader]() and a few tools that plays nice together.
 
 ## Media Queries
 
