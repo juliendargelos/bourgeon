@@ -1,25 +1,24 @@
-![logo](template/src/assets/logo.png?raw=true)
+# ![logo](template/src/assets/logo.png?raw=true) Shrub
+<small>(Based on [Bourgeon](https://github.com/rayfranco/bourgeon))</small>
 
-# bourgeon
-
-> Bourgeon is an opinionated-featured VueJS 2.0 setup for Webpack
+> Shrub is an opinionated-featured VueJS 2.0 setup for Webpack
 
 > The setup includes hot-reload, lint-on-save, unit testing, css extraction, vuex, advanced routing, i18n, SVG sprite sheets and stylus with some helpers. Almost everything is optional and you can select which sugars you want on init
 
 ## What's different
 
-This template is a fork of the official [webpack](https://github.com/vuejs-templates/webpack) template. A few more opinionated features and conventions are bundled with Bourgeon:
+This template is a fork of the official [webpack](https://github.com/vuejs-templates/webpack) template. A few more opinionated features and conventions are bundled with Shrub:
 
-- **[VueX](https://rayfranco.github.io/bourgeon/store.html)** installed and ready to use
-- **[Routing](https://rayfranco.github.io/bourgeon/routing.html)** using official [vue-router](https://github.com/vuejs/vue-router) and conventions
-- **[i18n](https://rayfranco.github.io/bourgeon/i18n.html)** using [vue-i18n](https://github.com/kazupon/vue-i18n), [yaml-loader](https://github.com/okonet/yaml-loader) and conventions
-- **[Store](https://rayfranco.github.io/bourgeon/store.html)** if not using vuex, a simple convention for sharing data between components
-- **[SVG Sprites](https://rayfranco.github.io/bourgeon/svg.html)** using [svg-sprite-loader](https://github.com/kisenka/svg-sprite-loader) and conventions
-- **[Stylus](https://rayfranco.github.io/bourgeon/stylus.html)** using [stylus-loader](https://github.com/shama/stylus-loader) and some custom mixins
+- **[VueX](https://juliendargelos.github.io/shrub/store.html)** installed and ready to use
+- **[Routing](https://juliendargelos.github.io/shrub/routing.html)** using official [vue-router](https://github.com/vuejs/vue-router) and conventions
+- **[i18n](https://juliendargelos.github.io/shrub/i18n.html)** using [vue-i18n](https://github.com/kazupon/vue-i18n), [yaml-loader](https://github.com/okonet/yaml-loader) and conventions
+- **[Store](https://juliendargelos.github.io/shrub/store.html)** if not using vuex, a simple convention for sharing data between components
+- **[SVG Sprites](https://juliendargelos.github.io/shrub/svg.html)** using [svg-sprite-loader](https://github.com/kisenka/svg-sprite-loader) and conventions
+- **[Stylus](https://juliendargelos.github.io/shrub/stylus.html)** using [stylus-loader](https://github.com/shama/stylus-loader) and some custom mixins
 
 ## Documentation
 
-- [For this template](http://rayfranco.github.io/bourgeon): common questions specific to this template are answered and each part is described in greater detail
+- [For this template](http://juliendargelos.github.io/shrub): common questions specific to this template are answered and each part is described in greater detail
 - [For Vue 2.0](http://rc.vuejs.org/guide/): general information about how to work with Vue, not specific to this template
 
 ## Usage
@@ -28,7 +27,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli). **It
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init rayfranco/bourgeon my-project
+$ vue init juliendargelos/shrub my-project
 $ cd my-project
 $ npm install
 $ npm run dev

@@ -56,6 +56,10 @@ module.exports = {
       "type": "confirm",
       "message": "Do you need support for SVG sprites?"
     },
+    "bem": {
+      "type": "confirm",
+      "message": "Do you need support for BEM components?"
+    },
     "grid": {
       "type": "list",
       "message": "Which grid system would you like?",
