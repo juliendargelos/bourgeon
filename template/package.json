@@ -18,8 +18,8 @@
   "dependencies": {
     "vue": "^2.2.4"{{#routing}},
     "vue-router": "^2.3.0"{{/routing}}{{#i18n}},
-    "vue-i18n": "^5.0.3"{{/i18n}}{{/bem}},
-    "bem-vue": "git+https://github.com/juliendargelos/bem-vue.git"{{#bem}}
+    "vue-i18n": "^5.0.3"{{/i18n}}{{#bem}},
+    "bem-vue": "git+https://github.com/juliendargelos/bem-vue.git"{{/bem}}
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
