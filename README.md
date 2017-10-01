@@ -1,4 +1,6 @@
-# ![logo](template/src/assets/logo.png?raw=true)&nbsp;&nbsp;Shrub
+![logo](template/src/assets/logo.png?raw=true)
+
+# Shrub
 <p align="right"><sup>Based on <a href="https://github.com/rayfranco/bourgeon">Bourgeon</a></sup></p>
 
 > Shrub is an opinionated-featured VueJS 2.0 setup for Webpack
